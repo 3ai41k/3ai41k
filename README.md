@@ -1,5 +1,6 @@
-### Hi there 👋
+[![CodeWars](https://www.codewars.com/users/3ai41k/badges/large)](https://www.codewars.com/users/3ai41k/)
 
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=3ai41k)](https://github.com/dtymakhov/github-readme-stats)
 <!--
 **3ai41k/3ai41k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
