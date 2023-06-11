@@ -6,4 +6,4 @@
 - LinkedIn: [me][2]
 
 [1]: https://habr.com/ru/users/NLizogubov/posts/
-[2]: https://www.linkedin.com/in/nikita-lizogubov-197736185/
+[2]: https://www.linkedin.com/in/%EF%A3%BF-nikita-lizogubov-197736185/
